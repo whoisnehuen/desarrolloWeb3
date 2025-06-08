@@ -5,14 +5,32 @@
   text-align: center;
 }
 
-h1{
+h1, h2, h3, h4{
   color: #FFD43B;
+}
+
+h1{
+  font-size: 80px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2{
+  font-size: 65px;
+}
+
+h3{
+  font-size: 50px;
+}
+
+h4{
+  font-size: 30px;
 }
 
 li{
   text-align: left;
   font-size: 20px;
-  list-style-type:square
+  list-style-type:square;
+  align-content: center;
 }
 
 button {
@@ -22,4 +40,25 @@ button {
 
 input{
   font-size: 20px;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  list-style-type:none;
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background: #FFD43B;
 }

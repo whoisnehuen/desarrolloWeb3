@@ -18,7 +18,7 @@ const TodoList = () => {
 
   return (
     <div style={{ maxWidth: "600px" }}>
-      <h1>Lista de tareas</h1>
+      <h2>Lista de tareas</h2>
 
       <div className="input-group mb-4">
         <input
