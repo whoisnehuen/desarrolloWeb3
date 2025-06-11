@@ -10,3 +10,7 @@ Operaciones CRUD para gestionar una lista de usuarios hecha con vite y react.
 
 ## Desafio 4 
 Navegación entre páginas (uso de React Router DOM).
+
+## Desafio 5 
+### Proyecto final
+Integración de todo el contenido del curso de Desarrollo Web 3
